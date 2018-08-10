@@ -17,6 +17,7 @@ const facts = [
   "He hated the sound of his own voice"]
   while (i < 100){
     var i = 1
-    
+    var array = []
+    array
   }
 }
