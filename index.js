@@ -24,5 +24,5 @@ function iLoveTheBeatles(Number){
   do{
     array['I love the Beatles!']
     number++
-  }
+  }while
 }
