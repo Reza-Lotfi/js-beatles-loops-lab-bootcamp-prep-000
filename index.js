@@ -18,6 +18,6 @@ const facts = [
   while (i < 100){
     var i = 1
     var array = []
-    array
+    array.push()
   }
 }
