@@ -19,6 +19,7 @@ const facts = [
     var i = 1
     i++
     var array = []
-    array.push(`${facts[i] !!! `)
+    array.push(`${facts[i]}!!!`)
   }
+  return array
 }
