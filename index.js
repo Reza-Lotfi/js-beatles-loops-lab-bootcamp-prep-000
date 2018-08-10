@@ -10,9 +10,9 @@ for (var i = 0; i < 4; i++){
 }
 
 function johnLennonFacts(facts){
-  var i = 1
-  while (i < 5){
-    var array = []
+  var i = 0
+  var array = []
+  while (i < 4){
     array.push(`${facts[i]}!!!`)
     i++
   }
